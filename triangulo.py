@@ -18,3 +18,5 @@ else:
     print(f'\nOs lados NÃO formam um triangulo\n')
 
 
+
+
