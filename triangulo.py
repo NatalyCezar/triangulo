@@ -1,5 +1,4 @@
 #Comentário do tio.
-#comentario do leo
 # crie um prog que leia os 3 lados de um triangulo
 # verificar se os lados de um polígono formam um triangulo
 # informar o tipo de triangulo formado
